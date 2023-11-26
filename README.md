@@ -15,6 +15,7 @@ This README details the steps taken in building the dataset and training multipl
 
 - **Design**: Implemented a custom Convolutional Neural Network (CNN) `CircleDetectorCNN` in PyTorch.
 - **Configuration**: The model consists of sequential convolutional layers, pooling layers, batch normalization layers, and fully connected layers. I experimented with 4, 5, 6, and 7 convolutional layers to determine the best architecture.
+![Final Model Architecture](src/architecture.png)
 
 ### 3. Training and Optimization
 
