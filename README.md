@@ -82,6 +82,6 @@ This README details the steps taken in building the dataset and training multipl
 
 The developed model successfully detects circles in noisy images with a high degree of accuracy. Future work may explore the impact of more complex architectures and further hyperparameter tuning for even greater accuracy.
 
-The notebook and weights for the model trained with 7 conv layers, noise of 0.5 and L1 loss is attached.
+The [notebook](train.ipynb) and [weights](model_noise0.5.pt) for the model trained with 7 conv layers, noise of 0.5 and L1 loss are linked and located in this repository.
 
 ---
